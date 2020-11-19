@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+html{
+    overflow-x: hidden;
+}
+body{
+    margin: 0;
+    min-height: 100vh;
+}
+div{
+    width: 100%;
+    margin:0;
+    padding:100px;
+}
+.one{
+    background: rgb(255, 108, 108);
+}
+.two{
+    background: rgb(143, 228, 137);
+}
+.three{
+    background: rgb(97, 120, 250);
+}
